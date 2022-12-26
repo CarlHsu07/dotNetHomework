@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace notNet_Console
+namespace dotNet_Console_MultiplicationTable
 {
     internal class Program
     {
